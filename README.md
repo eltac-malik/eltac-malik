@@ -13,8 +13,10 @@ I will update here
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/linkedin.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/twitter.svg" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Facebook_F_icon.svg/2048px-Facebook_F_icon.svg.png" style="padding-right:10px;" />][facebook]
+[<img align="left" alt="Twitter" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1200px-Gmail_Icon_%282013-2020%29.svg.png" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="Twitter" width="35px" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" style="padding-right:10px;" />][e-mail]
 
 <br />
 <br />
@@ -42,3 +44,5 @@ I will update here
 
 [linkedin]: https://https://www.linkedin.com/in/eltac-malik-107941200/
 [twitter]: https://twitter.com/EMalikmammadov
+[facebook]:https://www.facebook.com/profile.php?id=100007173333595
+[e-mail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
