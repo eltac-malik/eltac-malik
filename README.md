@@ -15,8 +15,8 @@ I will update here
 
 [<img align="left" alt="Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Facebook_F_icon.svg/2048px-Facebook_F_icon.svg.png" style="padding-right:10px;" />][facebook]
-[<img align="left" alt="Twitter" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1200px-Gmail_Icon_%282013-2020%29.svg.png" style="padding-right:10px;" />][twitter]
-[<img align="left" alt="Twitter" width="35px" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" style="padding-right:10px;" />][e-mail]
+[<img align="left" alt="Twitter" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1200px-Gmail_Icon_%282013-2020%29.svg.png" style="padding-right:10px;" />][e-mail]
+[<img align="left" alt="Twitter" width="35px" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" style="padding-right:10px;" />][twitter]
 
 <br />
 <br />
