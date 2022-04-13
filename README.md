@@ -42,7 +42,7 @@ I will update here
 
 ---
 
-[linkedin]: https://https://www.linkedin.com/in/eltac-malik
+[linkedin]: https://az.linkedin.com/in/eltac-malik-107941200
 [twitter]: https://twitter.com/EMalikmammadov
 [facebook]:https://www.facebook.com/profile.php?id=100007173333595
 [e-mail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
