@@ -1,4 +1,4 @@
-## Hi there, I'm Eltac, I'm a React developer
+## Hi there, I'm Eltac, I'm a Frontend Engineer
 
 ### Some of my Projects
 
