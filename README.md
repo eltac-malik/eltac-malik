@@ -48,7 +48,5 @@ I will update here
 [e-mail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 
 
-) 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltac-malik&&theme=chartreuse-dark&show_icons=true)
-![ezgif-1-712d57c967](https://user-images.githubusercontent.com/113392926/216329899-d10d0b23-5129-48fb-a633-a00672ae5388.gif
+![ezgif-1-712d57c967](https://user-images.githubusercontent.com/113392926/216329899-d10d0b23-5129-48fb-a633-a00672ae5388.gif)
